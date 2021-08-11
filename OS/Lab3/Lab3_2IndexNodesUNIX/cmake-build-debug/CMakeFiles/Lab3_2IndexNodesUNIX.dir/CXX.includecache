@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kub/CLionProjects/Lab3_2IndexNodesUNIX/main.cpp
+iostream
+-
+string
+-
+dirent.h
+-
+sys/stat.h
+-
+map
+-
+vector
+-
+

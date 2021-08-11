@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kub/Documents/Lab2_Unx/main.cpp
+pwd.h
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+dirent.h
+-
+cctype
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/sysinfo.h
+-
+unistd.h
+-
+iostream
+-
+

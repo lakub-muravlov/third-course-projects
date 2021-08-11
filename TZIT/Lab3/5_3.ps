@@ -1,0 +1,34 @@
+0 842 translate
+-90 rotate
+2.834 2.834 scale
+
+/length 150 def
+/radius length 15 div def
+
+/width length 1.25 div def
+/startx 20 def
+/starty 20 def
+
+newpath
+
+starty width 4 div add startx moveto
+0 length 3 div rlineto
+
+width 2 div 0 rmoveto
+0 length 3 div neg rlineto
+
+width 4 div  length 3 div 2 mul rmoveto
+0 length 3 div neg rlineto
+width neg 0 rlineto
+0 length 3 div rlineto
+width 2 div radius sub 0 rlineto
+width 2 div radius add 0 rmoveto
+width 2 div radius sub neg 0 rlineto
+starty width 2 div add  startx length 3 div 2 mul add  radius  0 360 arc
+
+radius neg radius rmoveto
+0 length 3 div radius sub rlineto
+
+
+stroke
+showpage

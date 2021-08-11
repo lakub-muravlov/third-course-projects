@@ -1,0 +1,39 @@
+/SIGN {
+/Courier-BoldOblique findfont 6 scalefont setfont
+0 0 moveto
+(CAD) show
+/Helvetica findfont 4 scalefont setfont
+0 0 5 sub moveto (DA-82 Muravlov Andrii) show
+} def
+/TABLE {
+/y3 exch def
+/x3 exch def
+/y2 exch def
+/x2 exch def
+/y1 exch def
+/x1 exch def
+x2 y1 newpath moveto
+x2 y3 lineto
+x1 y2 moveto
+x3 y2 lineto
+stroke
+x1 y1 newpath moveto
+x3 y1 lineto
+x3 y3 lineto
+x1 y3 lineto
+closepath
+stroke
+} def
+
+0 842 translate
+-90 rotate
+2.834 2.834 scale
+
+newpath
+
+gsave 43 105 translate 0 rotate SIGN grestore
+gsave 179 103 translate 180 rotate SIGN grestore
+gsave 69 34 translate 90 rotate SIGN grestore
+gsave 133 43 translate 45 rotate SIGN grestore
+30 110 112 95 195 30 TABLE
+showpage

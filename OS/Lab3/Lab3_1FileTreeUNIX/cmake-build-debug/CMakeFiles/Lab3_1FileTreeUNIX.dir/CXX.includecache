@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kub/CLionProjects/Lab3_1FileTreeUNIX/main.cpp
+string
+-
+list
+-
+map
+-
+dirent.h
+-
+sys/stat.h
+-
+math.h
+-
+

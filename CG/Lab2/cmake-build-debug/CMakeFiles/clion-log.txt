@@ -1,0 +1,6 @@
+/home/kub/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kub/CLionProjects/Lab2
+-- Found OpenGL: /usr/lib/libOpenGL.so   
+-- Found GLUT: /usr/lib/libglut.so  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kub/CLionProjects/Lab2/cmake-build-debug

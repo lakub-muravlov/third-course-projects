@@ -1,0 +1,3 @@
+/home/kub/CLionProjects/Lab3_1FileTreeUNIX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kub/CLionProjects/Lab3_1FileTreeUNIX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kub/CLionProjects/Lab3_1FileTreeUNIX/cmake-build-debug/CMakeFiles/Lab3_1FileTreeUNIX.dir

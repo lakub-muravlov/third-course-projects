@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Learn_3Course/TZIT/Lab4/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+string
+-
+transform_bmp.h
+D:/Documents/Learn_3Course/TZIT/Lab4/transform_bmp.h
+
+D:/Documents/Learn_3Course/TZIT/Lab4/transform_bmp.h
+string
+-
+vector
+-
+fstream
+-
+

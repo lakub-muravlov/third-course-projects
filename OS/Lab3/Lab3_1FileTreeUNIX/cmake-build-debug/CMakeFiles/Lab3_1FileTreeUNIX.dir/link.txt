@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab3_1FileTreeUNIX.dir/main.cpp.o  -o Lab3_1FileTreeUNIX 

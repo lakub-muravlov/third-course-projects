@@ -1,0 +1,3 @@
+D:/Documents/Learn_3Course/TZIT/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/Learn_3Course/TZIT/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+D:/Documents/Learn_3Course/TZIT/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Documents/Learn_3Course/OS/Lab3/Lab3_4_DiskInfoWIN32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/Learn_3Course/OS/Lab3/Lab3_4_DiskInfoWIN32/cmake-build-debug/CMakeFiles/Lab3_4_DiskInfoWIN32.dir
+D:/Documents/Learn_3Course/OS/Lab3/Lab3_4_DiskInfoWIN32/cmake-build-debug/CMakeFiles/edit_cache.dir

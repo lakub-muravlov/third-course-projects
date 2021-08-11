@@ -1,0 +1,3 @@
+/home/kub/Documents/Lab2_Unx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kub/Documents/Lab2_Unx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kub/Documents/Lab2_Unx/cmake-build-debug/CMakeFiles/Lab2_Unx.dir

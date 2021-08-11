@@ -1,0 +1,34 @@
+/length 120 def
+/width 60 def
+/startx 20 def
+/starty 20 def
+
+newpath
+starty startx moveto
+0 length 5 div 2 mul rlineto
+starty width 6 div add  startx length 5 div 2 mul add  width 6 div  180 360 arcn
+
+starty width 2 div add  startx length 5 div 2 mul add  width 6 div  180 360 arcn
+
+starty width 6 div 5 mul add  startx length 5 div 2 mul add  width 6 div  180 360 arcn
+
+0 length 5 div 2 mul neg rlineto
+
+0 length 2 div rmoveto
+width neg 0 rlineto
+
+0 length 10 div rmoveto
+starty width 6 div add  startx length 5 div 3 mul add  width 6 div  180 360 arc
+
+starty width 2 div add  startx length 5 div 3 mul add  width 6 div  180 360 arc
+
+starty width 6 div 5 mul add  startx length 5 div 3 mul add  width 6 div  180 360 arc
+
+0 length 5 div 2 mul rlineto
+
+width neg 0 rmoveto
+
+0 length 5 div 2 mul neg rlineto
+stroke
+
+showpage

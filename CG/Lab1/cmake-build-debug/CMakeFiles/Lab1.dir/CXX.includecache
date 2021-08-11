@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kub/Documents/Learn_3/CG/CG/Lab1/Display.h
+GL/glut.h
+-
+
+/home/kub/Documents/Learn_3/CG/CG/Lab1/KeyboardActions.h
+iostream
+-
+cstdio
+-
+Display.h
+/home/kub/Documents/Learn_3/CG/CG/Lab1/Display.h
+
+/home/kub/Documents/Learn_3/CG/CG/Lab1/main.cpp
+GL/glut.h
+-
+GL/glu.h
+-
+iostream
+-
+Display.h
+/home/kub/Documents/Learn_3/CG/CG/Lab1/Display.h
+KeyboardActions.h
+/home/kub/Documents/Learn_3/CG/CG/Lab1/KeyboardActions.h
+

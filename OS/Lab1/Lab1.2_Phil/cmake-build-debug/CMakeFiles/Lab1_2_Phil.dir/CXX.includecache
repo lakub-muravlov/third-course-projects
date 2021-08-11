@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kub/CLionProjects/Lab1.2_Phil/main.cpp
+condition_variable
+-
+stdio.h
+-
+vector
+-
+string
+-
+cstdlib
+-
+chrono
+-
+thread
+-
+iostream
+-
+unistd.h
+-
+

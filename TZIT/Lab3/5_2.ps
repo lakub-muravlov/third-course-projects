@@ -1,0 +1,39 @@
+0 400 translate
+/radius 77 def
+/length radius 4 mul def
+/width radius 6 mul def
+/startx 20 def
+/starty 20 def
+
+newpath
+starty width 2 div add  startx moveto
+0 length 2 div 1.3 mul rlineto
+0.8 radius mul neg  0 rmoveto
+1.6 radius mul 0 rlineto
+
+0.2 radius mul  0.4 radius mul rmoveto
+starty width 2 div add  startx length 4 div 3 mul add  radius  0 360 arc
+
+0.1 radius mul neg  0.4 radius mul rmoveto
+2.1 radius mul 0 rlineto
+
+width neg 0 rmoveto
+2.1 radius mul 0 rlineto
+0.7 radius mul  0.8 radius mul neg rlineto
+
+0.4 radius mul  0 rmoveto
+0.7 radius mul  0.8 radius mul rlineto
+stroke
+
+starty 3.9 radius mul add  startx 3.4 radius mul add newpath
+moveto
+0.5 radius mul  neg 0.2 radius mul  neg rlineto
+0.4 radius mul 0.4 radius mul neg rlineto
+closepath
+gsave
+fill
+grestore
+stroke
+closepath
+stroke
+showpage
